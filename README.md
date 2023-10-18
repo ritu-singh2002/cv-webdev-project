@@ -1,4 +1,6 @@
 # CV WEBDEV PROJECT [First Version (using only html)]
+Website Link: https://ritu-singh2002.github.io/cv-webdev-project/ 
+
 Home Page
 ![image](https://user-images.githubusercontent.com/98696997/151716312-9f4399a9-9a59-4e8d-bcd4-1fe4a1c7769b.png)
 Few Clicks Page
